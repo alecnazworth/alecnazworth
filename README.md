@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alec</h1>
-<h3 align="center">I'm a student at FIU studying computer science with a minor in statistics</h3>
-<h3 align="center">I'm interested in software development</h3>
+<h3 align="center">I'm currently studying at FIU, majoring in computer science with a minor in statistics</h3>
 
 
 <h3 align="center">Connect with me:</h3>
