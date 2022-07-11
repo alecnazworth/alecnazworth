@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alec</h1>
 <h3 align="center">I'm a student at FIU studying computer science with a minor in statistics</h3>
-<h3 align="center">I'm interested in software development and data science 📈</h3>
+<h3 align="center">I'm interested in software development</h3>
 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/alec-nazworth-3ab6b4237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alec-nazworth" height="40" width="50" /></a>
-<a href="https://www.hackerrank.com/alecnazworth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alecnazworth" height="40" width="50" /></a>
 <a href="https://www.leetcode.com/alecnazworth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alecnazworth" height="40" width="50" /></a>
 </p>
 
