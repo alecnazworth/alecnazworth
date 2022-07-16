@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alec</h1>
-<h3 align="center">I'm currently studying at FIU, majoring in computer science with a minor in statistics</h3>
+<h3 align="center">I'm currently studying at FIU, majoring in computer science and minoring in mathematics</h3>
 
 
 <h3 align="center">Connect with me:</h3>
@@ -18,5 +18,3 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
  </p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alecnazworth&show_icons=true&locale=en&layout=compact" alt="alecnazworth" /></p>
